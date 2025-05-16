@@ -1,6 +1,6 @@
 # Single-Transistor Amplifier Design 🔊
 
-Welcome to the Single-Transistor Amplifier project! This project focuses on designing, simulating, and building a transistor-based amplifier that maintains good linearity and low signal attenuation. The amplifier must deliver a ±0.5V input signal to a 100Ω load, using only **one transistor** and no op-amps.
+This project focuses on designing, simulating, and building a transistor-based amplifier that maintains good linearity and low signal attenuation. The amplifier must deliver a ±0.5V input signal to a 100Ω load, using only **one transistor** and no op-amps.
 
 ---
 
