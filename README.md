@@ -68,4 +68,4 @@ Design an amplifier that:
 ## Project Files
 
 - `Project 3.asc`: LTspice schematic file.
-- `https://www.youtube.com/watch?v=5SPJJU-ys-s`: Full report with calculations, analysis, and discussion.
+- [`Watch Video Report`](https://www.youtube.com/watch?v=5SPJJU-ys-s&ab_channel=AaronGhosh): Full walk-through including design explanation, calculations, analysis, simulation, build, and measurement.
